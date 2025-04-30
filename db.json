@@ -1,0 +1,35 @@
+{
+    "pizzas": [
+      {
+        "topping": "Margherita",
+        "size": "Medium",
+        "vegetarian": "Yes"
+      },
+      {
+        "topping": "Pepperoni",
+        "size": "Large",
+        "vegetarian": "No"
+      },
+      {
+        "topping": "Mushroom",
+        "size": "Small",
+        "vegetarian": "Yes"
+      },
+      {
+        "topping": "Sausage",
+        "size": "Medium",
+        "vegetarian": "No"
+      },
+      {
+        "topping": "Onion & Bell Pepper",
+        "size": "Large",
+        "vegetarian": "Yes"
+      },
+      {
+        "topping": "Bacon",
+        "size": "Small",
+        "vegetarian": "No"
+      }
+    ]
+  }
+  
